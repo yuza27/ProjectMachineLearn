@@ -1,4 +1,4 @@
-# 🧠 GitProject
+# 🧠 Machine Learn Project
 
 Repositori ini aku buat sebagai catatan pribadi untuk belajar dan eksperimen berbagai teknik **machine learning**.  
 Isinya berfokus pada dua pendekatan utama: **supervised learning** dan **unsupervised learning**, dengan tujuan memahami cara kerja model dan perbandingan hasil antar-metode.
